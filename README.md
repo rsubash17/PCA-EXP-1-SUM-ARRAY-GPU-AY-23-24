@@ -270,7 +270,11 @@ int main(int argc, char **argv)
 ```
 
 ## OUTPUT:
-![image](https://github.com/user-attachments/assets/d39f0de6-47fa-490a-a0dd-20c117614795)
+<img width="812" height="217" alt="image" src="https://github.com/user-attachments/assets/e2b8753d-bd6e-4992-b39a-c1e8fd6a1703" />
+
+<img width="471" height="114" alt="image" src="https://github.com/user-attachments/assets/2d946092-c7b9-4d38-9a39-d5ce1018bf4b" />
+<img width="475" height="110" alt="image" src="https://github.com/user-attachments/assets/412a52da-00af-4e7b-8b14-6125a59675b0" />
+
 
 
 ## RESULT:
